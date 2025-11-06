@@ -1,8 +1,10 @@
 # ML Engineer Nanodegree
 
-Projects completed as part of Udacity's Machine Learning Engineer Nanodegree program.
+Projects completed in 2016 as part of Udacity's Machine Learning Engineer Nanodegree program.
 
 ## Projects
+
+Links reference the original individual repositories.
 
 - **[boston_housing](https://github.com/burnssa/boston_housing)** - Predicting housing prices using decision tree regression
 - **[student_intervention](https://github.com/burnssa/student_intervention)** - Classifying students at risk of dropout using SVM, AdaBoost, and K-nearest neighbors
